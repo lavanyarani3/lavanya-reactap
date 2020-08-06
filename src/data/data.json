@@ -1,0 +1,113 @@
+{
+	"profile": [
+		{
+			"details": 
+			{
+				"name": "Samsung M21",
+				"special": "WattaCamera WattaMonster",
+				"ram": "4GB RAM + 64GB Storage & 6GB RAM + 128GB Storage",
+				"price": "MRP: Rs.13,999",
+				"battery":" Watta Battery 6000mAh Battery    15W Type-C Fast Charging",
+				"cam":"With 48MP Ultra-High Resolution ISOCELL Bright GM2 Sensor. 20MP Selfie Camera",
+				"bat":"With an unmatched 6000mAh battery which lasts all day and night",
+				"sto":"internal memory expandable up to 512GB and dual SIM",
+
+				"name2":"Mi Note9 - The Undisputed Champion",
+				"special2":"48MP Quad Camera Array",
+				"ram2":"4GB RAM + 64GB Storage",
+				"price2":"MRP: Rs.11,999",
+				"battery2":"5020mAh Fast-Charging Battery ",
+				"cam2":"with Ultra-wide and Macro Lenses 13MP in-display Selfie Camera",
+				"bat2":"5020mAh lithium-polymer battery with 22.5W Fast Charger in-box",
+				"sto2":"Expandable up to 512GB 2+1 SIM card slots",
+
+				"name3":"Iphone 6s",
+				"special3":"48MP Quad Camera Array",
+				"ram3":"4GB RAM + 64GB Storage",
+				"price3":"MRP: Rs.75,000",
+				"battery3":"5020mAh Fast-Charging Battery ",
+				"cam3":"with Ultra-wide and Macro Lenses 13MP in-display Selfie Camera",
+				"bat3":"5020mAh lithium-polymer battery with 22.5W Fast Charger in-box",
+				"sto3":"Expandable up to 512GB 2+1 SIM card slots"
+				
+
+			}
+
+		},
+		{
+			"details": 
+			{
+				"name": "Samsung M31",
+				"special": "MegaCamera MegaMonster",
+				"ram": "6GB RAM + 128GB Storage & 6GB RAM + 64GB Storage",
+				"price": "MRP: Rs.17,499",
+				"battery":"MegaBattery 6000mAh Battery 15W Type-C Fast Charging",
+				"cam":"With 48MP Ultra-High Resolution ISOCELL Bright GM2 Sensor. 20MP Selfie Camera",
+				"bat":"With an unmatched 6000mAh battery which lasts all day and night",
+				"sto":"internal memory expandable up to 512GB and dual SIM",
+
+				"name2":"Redmi Note8",
+				"special2":"Camera setup for any moment",
+				"ram2":"4GB RAM + 64GB Storage",
+				"price2":"MRP: Rs.12,799",
+				"battery2":"4000mAh High-Capacity Battery 18W Fast Charger in-box",
+				"cam2":"with Ultra-wide and Macro Lenses 13MP in-display Selfie Camera",
+				"bat2":"5020mAh lithium-polymer battery with 22.5W Fast Charger in-box",
+				"sto2":"Expandable up to 512GB 2+1 SIM card slots",
+
+				"name3":"Iphone 7",
+				"special3":"48MP Quad Camera Array",
+				"ram3":"4GB RAM + 64GB Storage",
+				"price3":"MRP: Rs.99,000",
+				"battery3":"5020mAh Fast-Charging Battery ",
+				"cam3":"with Ultra-wide and Macro Lenses 13MP in-display Selfie Camera",
+				"bat3":"5020mAh lithium-polymer battery with 22.5W Fast Charger in-box",
+				"sto3":"Expandable up to 512GB 2+1 SIM card slots"
+				
+
+
+			}
+
+
+		},
+		{
+			"details": 
+			{
+				"name": "Samsung M31s",
+				"special": "intelli-Cam with Single take",
+				"ram": "6GB RAM + 128GB Storage & 8GB RAM + 128GB Storage",
+				"price": "MRP: Rs.19,499",
+				"battery":"MonsterPunch 6000mAh Battery 25W Type-C Fast Charging",
+				"cam":"With 48MP Ultra-High Resolution ISOCELL Bright GM2 Sensor. 20MP Selfie Camera",
+				"bat":"With an unmatched 6000mAh battery which lasts all day and night",
+				"sto":"internal memory expandable up to 512GB and dual SIM",
+
+				"name2":"Redmi Note 9 Pro- The Performance Beast",
+				"special2":"High Performance Helio G85",
+				"ram2":"4GB RAM + 64GB Storage",
+				"price2":"MRP: Rs.13,999",
+				"battery2":"5020mAh Battery 18W Fast Charging",
+				"cam2":"with Ultra-wide and Macro Lenses 13MP in-display Selfie Camera",
+				"bat2":"5020mAh lithium-polymer battery with 22.5W Fast Charger in-box",
+				"sto2":"Expandable up to 512GB 2+1 SIM card slots",
+
+				"name3":"Iphone 8",
+				"special3":"48MP Quad Camera Array",
+				"ram3":"4GB RAM + 64GB Storage",
+				"price3":"MRP: Rs.1,00,000",
+				"battery3":"5020mAh Fast-Charging Battery ",
+				"cam3":"with Ultra-wide and Macro Lenses 13MP in-display Selfie Camera",
+				"bat3":"5020mAh lithium-polymer battery with 22.5W Fast Charger in-box",
+				"sto3":"Expandable up to 512GB 2+1 SIM card slots"
+				
+			}
+
+		}
+			
+
+	
+
+
+
+	]
+}
